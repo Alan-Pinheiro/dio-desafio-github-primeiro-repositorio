@@ -1,0 +1,19 @@
+Ao utilizar o terminal Git Bash é necessário fazer o uso de algumas tags.
+
+Exemplos:
+
+- ls: Utilizado para poder listar quais arquivos tem dentro da pasta em que está
+- cd <nome da pasta>: Utilizado para poder te levar para dentro de uma pasta específica
+- cd ..: Utilizado para poder voltar para a pasta anterior
+- CTRL L: Utilizado para limpar o terminal
+- git init: Utilizado para poder criar um novo repositório do Git
+- git add * / git add <nome do arquivo>: Utilizado para adicionar novos arquivos ao fazer modificação em uma pasta
+- git commit -m "mensagem qualquer": Utilizado para poder subir esses arquivos para a área de commit
+- git status: Utilizado para verificar se hpa alteração na brunch. Verifica o status do seu terminal
+- git reset: Utilizado para desfazer alterações de um repositório para um commit anterior
+- git revert: Utilizado para desfazer um commit sem excluir os dados
+- git push: Utilizado para enviar todas as alterações do repositório local para o repostório remoto (GitHub)
+- git pull: Utilizado para atualizar o repositório local com a versão do repositório remoto
+- git clone: Utilizado para poder baixar o código de um repositório na sua máquina
+
+Link de apoio: https://blog.betrybe.com/git/#:~:text=Git%20%C3%A9%20o%20sistema%20de,de%20trabalho%2C%20seguran%C3%A7a%20e%20desempenho.
